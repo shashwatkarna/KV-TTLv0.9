@@ -1,4 +1,0 @@
-{"cmd": "SET", "key": "hero", "value": "batman", "ttl": null, "ts": 1779454028.7902517}
-{"cmd": "SET", "key": "temp_key", "value": "123", "ttl": 2, "ts": 1779454030.8229096}
-{"cmd": "DELETE", "key": "temp_key", "value": null, "ttl": null, "ts": 1779454033.338913}
-{"cmd": "DELETE", "key": "hero", "value": null, "ttl": null, "ts": 1779454041.9713464}

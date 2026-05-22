@@ -1,0 +1,14 @@
+{
+  "name": "kv-gateway",
+  "version": "1.0.0",
+  "description": "API Gateway for KV-TTLv0.9",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
+    "morgan": "^1.10.0"
+  }
+}
